@@ -1,0 +1,11 @@
+.canvason{
+    outline: 1px solid yellowgreen;
+    display: block;
+
+}
+.paintArea{
+    display: inline-block;
+    outline: 4px solid lightgreen;
+    align-items: center;
+    padding: 15px;
+}
